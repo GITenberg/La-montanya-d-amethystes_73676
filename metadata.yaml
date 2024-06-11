@@ -1,0 +1,35 @@
+_repo: La-montanya-d-amethystes_73676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Liost, Guerau de
+    aliases:
+    - Bofill, Jaume
+    - Mates, Jaume Bofill i
+    - Matas, Jaime Bofill y
+    - De Liost, Guerau
+    - Bofill i Mates, Jaume
+    birthdate: 1878
+    deathdate: 1933
+    gutenberg_agent_id: '57175'
+    url: http://www.gutenberg.org/2009/agents/57175
+    wikipedia: https://ca.wikipedia.org/wiki/Guerau_de_Liost
+description: ''
+gutenberg_issued: '2024-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73676'
+language: ca
+pgterms:marc905: 20240518091732deliost
+pgterms:marc906: '1908'
+pgterms:marc907: ES
+production_note: 'digital editor: Joan Queralt Gil'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catalan poetry'
+- !lcc 'PC'
+- GITenberg
+title: La montanya d'amethystes
+url: http://www.gutenberg.org/ebooks/73676
